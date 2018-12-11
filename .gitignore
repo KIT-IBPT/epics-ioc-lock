@@ -1,0 +1,11 @@
+/.vscode
+/bin
+/configure/CONFIG_SITE.local
+/configure/O.*
+/configure/RELEASE.local
+/db
+/dbd
+/include
+/lib
+/iocLockApp/Db/O.*
+/iocLockApp/src/O.*
